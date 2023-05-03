@@ -9,6 +9,18 @@ cd Linux
 sudo bash linux.sh
 ```
 
+## Termux
+
+```
+pkg install git
+
+git clone https://github.com/bl4ck44/Linux.git
+
+cd Linux
+
+sudo bash termux.sh
+```
+
 ![Muestra1](Img/muestra1.png)
 
 ![Muestra2](Img/muestra2.png)
