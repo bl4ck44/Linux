@@ -2,7 +2,7 @@
 
 
 ```
-git clone https://github.com/bl4ck44/IP-Tracker.git
+git clone https://github.com/bl4ck44/Linux.git
 
 cd Linux
 
