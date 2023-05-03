@@ -37,8 +37,7 @@ echo
 echo "[1] Actualizar el sistema"
 echo "[2] Instalar Servicios"
 echo "[3] Instalar Herramientas"
-echo "[4] Version del sistema"
-echo "[5] Salir"
+echo "[4] Salir"
 
 echo
 
@@ -297,11 +296,6 @@ case $opcion in
         Herramientas;;
 
         4) echo
-        echo "[+] Esta es la version del sistema"
-        Version
-        echo;;
-
-        5) echo
         Exit;;
 
         *) echo "Opción incorrecta";;
