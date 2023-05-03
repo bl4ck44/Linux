@@ -241,7 +241,7 @@ Herramientas(){
         1) echo
         echo "[+] Instalando python3"
         echo
-        apt-get install python3-pip -y
+        apt-get install python3 -y
         echo
         echo "[+] python3 instalado"
         sleep 1.5;;
